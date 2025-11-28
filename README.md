@@ -5,10 +5,10 @@ Cada herramienta incluye su propia documentación básica dentro de su directori
 
 ## 📂 Lista de herramientas
 
-| Herramienta                   | Descripción breve                           | Ubicación                                                          |
-| ----------------------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| **Web Brute Force (Griffin)** | Encontrar Credenciales Web                  | [`/tools/herramienta1`](</Tools/Web%20Brute%20Force%20(Griffin)/>) |
-| **SQL Brute Force (Ximai)**   | Inyección SQL Automatizada basada en tiempo | [`/tools/herramienta2`](</Tools/SQLI%20Brute%20Force%20(Ximai)/>)  |
+| Herramienta                   | Descripción breve                           | Ubicación                                                                |
+| ----------------------------- | ------------------------------------------- | ------------------------------------------------------------------------ |
+| **Web Brute Force (Griffin)** | Encontrar Credenciales Web                  | [`Web Brute Force (Griffin)`](</Tools/Web%20Brute%20Force%20(Griffin)/>) |
+| **SQL Brute Force (Ximai)**   | Inyección SQL Automatizada basada en tiempo | [`SQL Brute Force (Ximai)`](</Tools/SQLI%20Brute%20Force%20(Ximai)/>)    |
 
 ## 🧩 Estructura
 
