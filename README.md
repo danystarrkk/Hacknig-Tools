@@ -5,10 +5,10 @@ Cada herramienta incluye su propia documentación básica dentro de su directori
 
 ## 📂 Lista de herramientas
 
-| Herramienta       | Descripción breve                     | Ubicación                                   |
-| ----------------- | ------------------------------------- | ------------------------------------------- |
-| **Herramienta 1** | Pequeña frase que diga para qué sirve | [`/tools/herramienta1`](tools/herramienta1) |
-| **Herramienta 2** | Otra frase corta de descripción       | [`/tools/herramienta2`](tools/herramienta2) |
+| Herramienta                   | Descripción breve                           | Ubicación                                                          |
+| ----------------------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| **Web Brute Force (Griffin)** | Encontrar Credenciales Web                  | [`/tools/herramienta1`](</Tools/Web%20Brute%20Force%20(Griffin)/>) |
+| **SQL Brute Force (Ximai)**   | Inyección SQL Automatizada basada en tiempo | [`/tools/herramienta2`](</Tools/SQLI%20Brute%20Force%20(Ximai)/>)  |
 
 ## 🧩 Estructura
 
@@ -16,8 +16,3 @@ Cada herramienta incluye su propia documentación básica dentro de su directori
 - Incluye:
   - Código fuente
   - Documentación (`README.md`)
-  - Ejemplos (si aplica)
-
-## ⚙️ Objetivo
-
-Tener un solo repositorio donde mantener ordenadas mis herramientas, con documentación mínima pero útil.
